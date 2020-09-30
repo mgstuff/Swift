@@ -33,6 +33,8 @@ struct hikeDetail: View {
             }
             Text(hike.name)
             Text(String(format: "%.2f", hike.miles))
+            
+            ArraySlice<element>
         }
     }
 }

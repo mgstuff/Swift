@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20191011-keto-fried-chicken-delish-ehg-2642-1571677665.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
