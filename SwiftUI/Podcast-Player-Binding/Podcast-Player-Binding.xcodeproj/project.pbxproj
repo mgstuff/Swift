@@ -7,35 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ED3597322523B6D80051C450 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3597312523B6D80051C450 /* AppDelegate.swift */; };
-		ED3597342523B6D80051C450 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3597332523B6D80051C450 /* SceneDelegate.swift */; };
-		ED3597362523B6D80051C450 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3597352523B6D80051C450 /* ContentView.swift */; };
-		ED3597382523B6DC0051C450 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED3597372523B6DC0051C450 /* Assets.xcassets */; };
-		ED35973B2523B6DC0051C450 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED35973A2523B6DC0051C450 /* Preview Assets.xcassets */; };
-		ED35973E2523B6DC0051C450 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED35973C2523B6DC0051C450 /* LaunchScreen.storyboard */; };
-		ED3597472523B8650051C450 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3597462523B8650051C450 /* Task.swift */; };
-		ED3597492523B9F40051C450 /* Dish.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3597482523B9F40051C450 /* Dish.swift */; };
-		ED35974B2523BEAC0051C450 /* dishList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED35974A2523BEAC0051C450 /* dishList.swift */; };
-		ED35974D25247F3F0051C450 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED35974C25247F3F0051C450 /* Binding.swift */; };
+		ED35975B252498020051C450 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED35975A252498020051C450 /* AppDelegate.swift */; };
+		ED35975D252498020051C450 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED35975C252498020051C450 /* SceneDelegate.swift */; };
+		ED35975F252498020051C450 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED35975E252498020051C450 /* ContentView.swift */; };
+		ED359761252498050051C450 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED359760252498050051C450 /* Assets.xcassets */; };
+		ED359764252498050051C450 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED359763252498050051C450 /* Preview Assets.xcassets */; };
+		ED359767252498050051C450 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED359765252498050051C450 /* LaunchScreen.storyboard */; };
+		ED3597702524982D0051C450 /* Episode.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED35976F2524982D0051C450 /* Episode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ED35972E2523B6D80051C450 /* @State.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "@State.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED3597312523B6D80051C450 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		ED3597332523B6D80051C450 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		ED3597352523B6D80051C450 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		ED3597372523B6DC0051C450 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		ED35973A2523B6DC0051C450 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		ED35973D2523B6DC0051C450 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		ED35973F2523B6DC0051C450 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ED3597462523B8650051C450 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
-		ED3597482523B9F40051C450 /* Dish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dish.swift; sourceTree = "<group>"; };
-		ED35974A2523BEAC0051C450 /* dishList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dishList.swift; sourceTree = "<group>"; };
-		ED35974C25247F3F0051C450 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
+		ED359757252498020051C450 /* Podcast-Player-Binding.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Podcast-Player-Binding.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED35975A252498020051C450 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		ED35975C252498020051C450 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		ED35975E252498020051C450 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		ED359760252498050051C450 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		ED359763252498050051C450 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ED359766252498050051C450 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		ED359768252498050051C450 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED35976F2524982D0051C450 /* Episode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Episode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		ED35972B2523B6D80051C450 /* Frameworks */ = {
+		ED359754252498020051C450 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -45,52 +39,49 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		ED3597252523B6D80051C450 = {
+		ED35974E252498020051C450 = {
 			isa = PBXGroup;
 			children = (
-				ED3597302523B6D80051C450 /* @State */,
-				ED35972F2523B6D80051C450 /* Products */,
+				ED359759252498020051C450 /* Podcast-Player-Binding */,
+				ED359758252498020051C450 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		ED35972F2523B6D80051C450 /* Products */ = {
+		ED359758252498020051C450 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ED35972E2523B6D80051C450 /* @State.app */,
+				ED359757252498020051C450 /* Podcast-Player-Binding.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ED3597302523B6D80051C450 /* @State */ = {
+		ED359759252498020051C450 /* Podcast-Player-Binding */ = {
 			isa = PBXGroup;
 			children = (
-				ED3597452523B8560051C450 /* Models */,
-				ED3597312523B6D80051C450 /* AppDelegate.swift */,
-				ED3597332523B6D80051C450 /* SceneDelegate.swift */,
-				ED3597352523B6D80051C450 /* ContentView.swift */,
-				ED35974A2523BEAC0051C450 /* dishList.swift */,
-				ED35974C25247F3F0051C450 /* Binding.swift */,
-				ED3597372523B6DC0051C450 /* Assets.xcassets */,
-				ED35973C2523B6DC0051C450 /* LaunchScreen.storyboard */,
-				ED35973F2523B6DC0051C450 /* Info.plist */,
-				ED3597392523B6DC0051C450 /* Preview Content */,
+				ED35976E2524981E0051C450 /* Models */,
+				ED35975A252498020051C450 /* AppDelegate.swift */,
+				ED35975C252498020051C450 /* SceneDelegate.swift */,
+				ED35975E252498020051C450 /* ContentView.swift */,
+				ED359760252498050051C450 /* Assets.xcassets */,
+				ED359765252498050051C450 /* LaunchScreen.storyboard */,
+				ED359768252498050051C450 /* Info.plist */,
+				ED359762252498050051C450 /* Preview Content */,
 			);
-			path = "@State";
+			path = "Podcast-Player-Binding";
 			sourceTree = "<group>";
 		};
-		ED3597392523B6DC0051C450 /* Preview Content */ = {
+		ED359762252498050051C450 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				ED35973A2523B6DC0051C450 /* Preview Assets.xcassets */,
+				ED359763252498050051C450 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		ED3597452523B8560051C450 /* Models */ = {
+		ED35976E2524981E0051C450 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				ED3597462523B8650051C450 /* Task.swift */,
-				ED3597482523B9F40051C450 /* Dish.swift */,
+				ED35976F2524982D0051C450 /* Episode.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -98,39 +89,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ED35972D2523B6D80051C450 /* @State */ = {
+		ED359756252498020051C450 /* Podcast-Player-Binding */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ED3597422523B6DC0051C450 /* Build configuration list for PBXNativeTarget "@State" */;
+			buildConfigurationList = ED35976B252498050051C450 /* Build configuration list for PBXNativeTarget "Podcast-Player-Binding" */;
 			buildPhases = (
-				ED35972A2523B6D80051C450 /* Sources */,
-				ED35972B2523B6D80051C450 /* Frameworks */,
-				ED35972C2523B6D80051C450 /* Resources */,
+				ED359753252498020051C450 /* Sources */,
+				ED359754252498020051C450 /* Frameworks */,
+				ED359755252498020051C450 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "@State";
-			productName = "@State";
-			productReference = ED35972E2523B6D80051C450 /* @State.app */;
+			name = "Podcast-Player-Binding";
+			productName = "Podcast-Player-Binding";
+			productReference = ED359757252498020051C450 /* Podcast-Player-Binding.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		ED3597262523B6D80051C450 /* Project object */ = {
+		ED35974F252498020051C450 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1160;
 				LastUpgradeCheck = 1160;
 				ORGANIZATIONNAME = "Michał Grycki";
 				TargetAttributes = {
-					ED35972D2523B6D80051C450 = {
+					ED359756252498020051C450 = {
 						CreatedOnToolsVersion = 11.6;
 					};
 				};
 			};
-			buildConfigurationList = ED3597292523B6D80051C450 /* Build configuration list for PBXProject "@State" */;
+			buildConfigurationList = ED359752252498020051C450 /* Build configuration list for PBXProject "Podcast-Player-Binding" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -138,51 +129,48 @@
 				en,
 				Base,
 			);
-			mainGroup = ED3597252523B6D80051C450;
-			productRefGroup = ED35972F2523B6D80051C450 /* Products */;
+			mainGroup = ED35974E252498020051C450;
+			productRefGroup = ED359758252498020051C450 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ED35972D2523B6D80051C450 /* @State */,
+				ED359756252498020051C450 /* Podcast-Player-Binding */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		ED35972C2523B6D80051C450 /* Resources */ = {
+		ED359755252498020051C450 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED35973E2523B6DC0051C450 /* LaunchScreen.storyboard in Resources */,
-				ED35973B2523B6DC0051C450 /* Preview Assets.xcassets in Resources */,
-				ED3597382523B6DC0051C450 /* Assets.xcassets in Resources */,
+				ED359767252498050051C450 /* LaunchScreen.storyboard in Resources */,
+				ED359764252498050051C450 /* Preview Assets.xcassets in Resources */,
+				ED359761252498050051C450 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		ED35972A2523B6D80051C450 /* Sources */ = {
+		ED359753252498020051C450 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED3597472523B8650051C450 /* Task.swift in Sources */,
-				ED35974B2523BEAC0051C450 /* dishList.swift in Sources */,
-				ED3597492523B9F40051C450 /* Dish.swift in Sources */,
-				ED35974D25247F3F0051C450 /* Binding.swift in Sources */,
-				ED3597322523B6D80051C450 /* AppDelegate.swift in Sources */,
-				ED3597342523B6D80051C450 /* SceneDelegate.swift in Sources */,
-				ED3597362523B6D80051C450 /* ContentView.swift in Sources */,
+				ED35975B252498020051C450 /* AppDelegate.swift in Sources */,
+				ED3597702524982D0051C450 /* Episode.swift in Sources */,
+				ED35975D252498020051C450 /* SceneDelegate.swift in Sources */,
+				ED35975F252498020051C450 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		ED35973C2523B6DC0051C450 /* LaunchScreen.storyboard */ = {
+		ED359765252498050051C450 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ED35973D2523B6DC0051C450 /* Base */,
+				ED359766252498050051C450 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -190,7 +178,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		ED3597402523B6DC0051C450 /* Debug */ = {
+		ED359769252498050051C450 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -250,7 +238,7 @@
 			};
 			name = Debug;
 		};
-		ED3597412523B6DC0051C450 /* Release */ = {
+		ED35976A252498050051C450 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -304,38 +292,38 @@
 			};
 			name = Release;
 		};
-		ED3597432523B6DC0051C450 /* Debug */ = {
+		ED35976C252498050051C450 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"@State/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Podcast-Player-Binding/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "@State/Info.plist";
+				INFOPLIST_FILE = "Podcast-Player-Binding/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "mg.-State";
+				PRODUCT_BUNDLE_IDENTIFIER = "mg.Podcast-Player-Binding";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		ED3597442523B6DC0051C450 /* Release */ = {
+		ED35976D252498050051C450 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"@State/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Podcast-Player-Binding/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "@State/Info.plist";
+				INFOPLIST_FILE = "Podcast-Player-Binding/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "mg.-State";
+				PRODUCT_BUNDLE_IDENTIFIER = "mg.Podcast-Player-Binding";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -345,25 +333,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ED3597292523B6D80051C450 /* Build configuration list for PBXProject "@State" */ = {
+		ED359752252498020051C450 /* Build configuration list for PBXProject "Podcast-Player-Binding" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ED3597402523B6DC0051C450 /* Debug */,
-				ED3597412523B6DC0051C450 /* Release */,
+				ED359769252498050051C450 /* Debug */,
+				ED35976A252498050051C450 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ED3597422523B6DC0051C450 /* Build configuration list for PBXNativeTarget "@State" */ = {
+		ED35976B252498050051C450 /* Build configuration list for PBXNativeTarget "Podcast-Player-Binding" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ED3597432523B6DC0051C450 /* Debug */,
-				ED3597442523B6DC0051C450 /* Release */,
+				ED35976C252498050051C450 /* Debug */,
+				ED35976D252498050051C450 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = ED3597262523B6D80051C450 /* Project object */;
+	rootObject = ED35974F252498020051C450 /* Project object */;
 }
