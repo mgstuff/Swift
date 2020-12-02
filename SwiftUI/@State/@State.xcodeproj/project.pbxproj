@@ -17,6 +17,7 @@
 		ED3597492523B9F40051C450 /* Dish.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3597482523B9F40051C450 /* Dish.swift */; };
 		ED35974B2523BEAC0051C450 /* dishList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED35974A2523BEAC0051C450 /* dishList.swift */; };
 		ED35974D25247F3F0051C450 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED35974C25247F3F0051C450 /* Binding.swift */; };
+		ED359855253EB3110051C450 /* ssl-badge-3-xl.png in Resources */ = {isa = PBXBuildFile; fileRef = ED359854253EB3110051C450 /* ssl-badge-3-xl.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		ED3597482523B9F40051C450 /* Dish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dish.swift; sourceTree = "<group>"; };
 		ED35974A2523BEAC0051C450 /* dishList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dishList.swift; sourceTree = "<group>"; };
 		ED35974C25247F3F0051C450 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
+		ED359854253EB3110051C450 /* ssl-badge-3-xl.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ssl-badge-3-xl.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				ED35974A2523BEAC0051C450 /* dishList.swift */,
 				ED35974C25247F3F0051C450 /* Binding.swift */,
 				ED3597372523B6DC0051C450 /* Assets.xcassets */,
+				ED359854253EB3110051C450 /* ssl-badge-3-xl.png */,
 				ED35973C2523B6DC0051C450 /* LaunchScreen.storyboard */,
 				ED35973F2523B6DC0051C450 /* Info.plist */,
 				ED3597392523B6DC0051C450 /* Preview Content */,
@@ -153,6 +156,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED359855253EB3110051C450 /* ssl-badge-3-xl.png in Resources */,
 				ED35973E2523B6DC0051C450 /* LaunchScreen.storyboard in Resources */,
 				ED35973B2523B6DC0051C450 /* Preview Assets.xcassets in Resources */,
 				ED3597382523B6DC0051C450 /* Assets.xcassets in Resources */,

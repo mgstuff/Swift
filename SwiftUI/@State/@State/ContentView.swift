@@ -10,6 +10,8 @@ import SwiftUI
 
 struct ContentView: View {
     
+    let cities = [""] 
+    
     // has to be marked with state as we are using it in body
     @State var tasks = [Task]()
     
